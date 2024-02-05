@@ -1,0 +1,5 @@
+# Ignore all files in the secrets folder
+secrets/*
+
+# Except for the .gitkeep file (if you use it to keep the folder in the repository)
+!secrets/.gitkeep
